@@ -33,10 +33,9 @@ Este é o microsserviço do Config Server.
 - Serviço de notificação por e-mail utilizando o RabbitMQ e Spring Email
 - Configuração do docker-compose para que a aplicação funcione totalmente em containers
 
-## Requirements
+## Requisitos
 
 - [JDK 17](https://www.oracle.com/br/java/technologies/javase/jdk17-archive-downloads.html)
-- [Docker](https://hub.docker.com/)
 
 ## Run
 
